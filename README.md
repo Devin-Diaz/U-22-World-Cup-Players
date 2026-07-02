@@ -2,7 +2,7 @@
 
 A mini terminal like app displaying U-22 players at the FIFA World Cup 2026.
 
-![Local screenshot](u-22-grid)
+![Local screenshot](u-22-grid.png)
 
 ## Extra Details & Learning Processes:
 
