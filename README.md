@@ -1,6 +1,8 @@
 # U-22-World-Cup-Players
 
-A mini terminal like application displaying U-22 players at the FIFA World Cup 2026.
+A mini terminal like app displaying U-22 players at the FIFA World Cup 2026.
+
+![Local screenshot](u-22-grid)
 
 ## Extra Details & Learning Processes:
 
