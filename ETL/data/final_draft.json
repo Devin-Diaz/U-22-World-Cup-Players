@@ -2,7 +2,7 @@
     {
         "country": "Algeria",
         "country_code": "ALG",
-        "#": 22,
+        "jersey_num": 22,
         "pos": "MF",
         "player_name": "MAZA Ibrahim",
         "first_names": "Ibrahim",
@@ -47,7 +47,7 @@
     {
         "country": "Argentina",
         "country_code": "ARG",
-        "#": 8,
+        "jersey_num": 8,
         "pos": "MF",
         "player_name": "BARCO Valentin",
         "first_names": "Valentin",
@@ -92,7 +92,7 @@
     {
         "country": "Argentina",
         "country_code": "ARG",
-        "#": 18,
+        "jersey_num": 18,
         "pos": "FW",
         "player_name": "PAZ Nico",
         "first_names": "Nicolas",
@@ -137,7 +137,7 @@
     {
         "country": "Australia",
         "country_code": "AUS",
-        "#": 17,
+        "jersey_num": 17,
         "pos": "FW",
         "player_name": "IRANKUNDA Nestory",
         "first_names": "Nestory",
@@ -182,7 +182,7 @@
     {
         "country": "Australia",
         "country_code": "AUS",
-        "#": 24,
+        "jersey_num": 24,
         "pos": "MF",
         "player_name": "OKON-ENGSTLER Paul",
         "first_names": "Paul Michael Junior",
@@ -227,7 +227,7 @@
     {
         "country": "Australia",
         "country_code": "AUS",
-        "#": 25,
+        "jersey_num": 25,
         "pos": "DF",
         "player_name": "HERRINGTON Lucas",
         "first_names": "Lucas",
@@ -272,7 +272,7 @@
     {
         "country": "Austria",
         "country_code": "AUT",
-        "#": 24,
+        "jersey_num": 24,
         "pos": "MF",
         "player_name": "WANNER Paul",
         "first_names": "Paul",
@@ -305,7 +305,7 @@
     {
         "country": "Belgium",
         "country_code": "BEL",
-        "#": 13,
+        "jersey_num": 13,
         "pos": "GK",
         "player_name": "PENDERS Mike",
         "first_names": "Mike Louis",
@@ -338,7 +338,7 @@
     {
         "country": "Belgium",
         "country_code": "BEL",
-        "#": 18,
+        "jersey_num": 18,
         "pos": "DF",
         "player_name": "SEYS Joaquin",
         "first_names": "Joaquin Ronny",
@@ -371,7 +371,7 @@
     {
         "country": "Belgium",
         "country_code": "BEL",
-        "#": 19,
+        "jersey_num": 19,
         "pos": "MF",
         "player_name": "MOREIRA Diego",
         "first_names": "Diego Manuel J",
@@ -404,7 +404,7 @@
     {
         "country": "Belgium",
         "country_code": "BEL",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "FW",
         "player_name": "FERNANDEZ-PARDO Matias",
         "first_names": "Matias",
@@ -437,7 +437,7 @@
     {
         "country": "Bosnia And Herzegovina",
         "country_code": "BIH",
-        "#": 12,
+        "jersey_num": 12,
         "pos": "GK",
         "player_name": "JURKAS Mladen",
         "first_names": "Mladen",
@@ -482,7 +482,7 @@
     {
         "country": "Bosnia And Herzegovina",
         "country_code": "BIH",
-        "#": 19,
+        "jersey_num": 19,
         "pos": "FW",
         "player_name": "ALAJBEGOVIC Kerim",
         "first_names": "Kerim",
@@ -527,7 +527,7 @@
     {
         "country": "Bosnia And Herzegovina",
         "country_code": "BIH",
-        "#": 20,
+        "jersey_num": 20,
         "pos": "FW",
         "player_name": "BAJRAKTAREVIC Esmir",
         "first_names": "Esmir",
@@ -572,7 +572,7 @@
     {
         "country": "Bosnia And Herzegovina",
         "country_code": "BIH",
-        "#": 24,
+        "jersey_num": 24,
         "pos": "DF",
         "player_name": "MALIC Arjan",
         "first_names": "Arjan",
@@ -617,7 +617,7 @@
     {
         "country": "Bosnia And Herzegovina",
         "country_code": "BIH",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "MF",
         "player_name": "MAHMIC Ermin",
         "first_names": "Ermin",
@@ -662,7 +662,7 @@
     {
         "country": "Brazil",
         "country_code": "BRA",
-        "#": 19,
+        "jersey_num": 19,
         "pos": "FW",
         "player_name": "ENDRICK",
         "first_names": "Endrick Felipe",
@@ -707,7 +707,7 @@
     {
         "country": "Brazil",
         "country_code": "BRA",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "FW",
         "player_name": "RAYAN",
         "first_names": "Rayan Vitor",
@@ -752,7 +752,7 @@
     {
         "country": "Canada",
         "country_code": "CAN",
-        "#": 4,
+        "jersey_num": 4,
         "pos": "DF",
         "player_name": "DE FOUGEROLLES Luc",
         "first_names": "Luc",
@@ -797,7 +797,7 @@
     {
         "country": "DR Congo",
         "country_code": "COD",
-        "#": 6,
+        "jersey_num": 6,
         "pos": "MF",
         "player_name": "MUKAU Ngalayel",
         "first_names": "Ngal’ayel",
@@ -842,7 +842,7 @@
     {
         "country": "DR Congo",
         "country_code": "COD",
-        "#": 14,
+        "jersey_num": 14,
         "pos": "MF",
         "player_name": "SADIKI Noah",
         "first_names": "Noah Junior",
@@ -887,7 +887,7 @@
     {
         "country": "DR Congo",
         "country_code": "COD",
-        "#": 21,
+        "jersey_num": 21,
         "pos": "GK",
         "player_name": "EPOLO Matthieu",
         "first_names": "Matthieu Luka",
@@ -932,7 +932,7 @@
     {
         "country": "Côte D'Ivoire",
         "country_code": "CIV",
-        "#": 11,
+        "jersey_num": 11,
         "pos": "FW",
         "player_name": "DIOMANDE Yan",
         "first_names": "Yan",
@@ -965,7 +965,7 @@
     {
         "country": "Côte D'Ivoire",
         "country_code": "CIV",
-        "#": 24,
+        "jersey_num": 24,
         "pos": "FW",
         "player_name": "TOURE Bazoumana",
         "first_names": "Bazoumana",
@@ -998,7 +998,7 @@
     {
         "country": "Côte D'Ivoire",
         "country_code": "CIV",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "MF",
         "player_name": "OULAI Christ Inao",
         "first_names": "Christ Ravynel Inao",
@@ -1031,7 +1031,7 @@
     {
         "country": "Croatia",
         "country_code": "CRO",
-        "#": 22,
+        "jersey_num": 22,
         "pos": "DF",
         "player_name": "VUSKOVIC Luka",
         "first_names": "Luka",
@@ -1076,7 +1076,7 @@
     {
         "country": "Czechia",
         "country_code": "CZE",
-        "#": 25,
+        "jersey_num": 25,
         "pos": "MF",
         "player_name": "SOCHUREK Hugo",
         "first_names": "Hugo",
@@ -1109,7 +1109,7 @@
     {
         "country": "Ecuador",
         "country_code": "ECU",
-        "#": 10,
+        "jersey_num": 10,
         "pos": "MF",
         "player_name": "PAEZ Kendry",
         "first_names": "Ray Kendry",
@@ -1154,7 +1154,7 @@
     {
         "country": "Ecuador",
         "country_code": "ECU",
-        "#": 24,
+        "jersey_num": 24,
         "pos": "FW",
         "player_name": "AREVALO Jeremy",
         "first_names": "Jeremy Alberto",
@@ -1199,7 +1199,7 @@
     {
         "country": "Ecuador",
         "country_code": "ECU",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "DF",
         "player_name": "MEDINA Yaimar",
         "first_names": "Yaimar Abel",
@@ -1244,7 +1244,7 @@
     {
         "country": "Egypt",
         "country_code": "EGY",
-        "#": 9,
+        "jersey_num": 9,
         "pos": "FW",
         "player_name": "HAMZA ABDELKARIM",
         "first_names": "Hamza Mohamed Abdelkarim E",
@@ -1289,7 +1289,7 @@
     {
         "country": "England",
         "country_code": "ENG",
-        "#": 3,
+        "jersey_num": 3,
         "pos": "DF",
         "player_name": "OREILLY Nico",
         "first_names": "Nico",
@@ -1334,7 +1334,7 @@
     {
         "country": "England",
         "country_code": "ENG",
-        "#": 16,
+        "jersey_num": 16,
         "pos": "MF",
         "player_name": "MAINOO Kobbie",
         "first_names": "Kobbie Boateng",
@@ -1379,7 +1379,7 @@
     {
         "country": "France",
         "country_code": "FRA",
-        "#": 18,
+        "jersey_num": 18,
         "pos": "MF",
         "player_name": "ZAIRE-EMERY Warren",
         "first_names": "Warren Marie Jean-Pierre",
@@ -1412,7 +1412,7 @@
     {
         "country": "France",
         "country_code": "FRA",
-        "#": 20,
+        "jersey_num": 20,
         "pos": "FW",
         "player_name": "DOUE Desire",
         "first_names": "Désiré Nonka-Maho",
@@ -1445,7 +1445,7 @@
     {
         "country": "France",
         "country_code": "FRA",
-        "#": 23,
+        "jersey_num": 23,
         "pos": "GK",
         "player_name": "RISSER Robin",
         "first_names": "Robin François Philippe",
@@ -1478,7 +1478,7 @@
     {
         "country": "Germany",
         "country_code": "GER",
-        "#": 25,
+        "jersey_num": 25,
         "pos": "MF",
         "player_name": "OUEDRAOGO Assan",
         "first_names": "Forzan Assan",
@@ -1519,7 +1519,7 @@
     {
         "country": "Ghana",
         "country_code": "GHA",
-        "#": 3,
+        "jersey_num": 3,
         "pos": "MF",
         "player_name": "YIRENKYI Caleb",
         "first_names": "Caleb Marfo",
@@ -1564,7 +1564,7 @@
     {
         "country": "Ghana",
         "country_code": "GHA",
-        "#": 13,
+        "jersey_num": 13,
         "pos": "FW",
         "player_name": "BONSU BAAH Christopher",
         "first_names": "Christopher Bonsu",
@@ -1609,7 +1609,7 @@
     {
         "country": "Haiti",
         "country_code": "HAI",
-        "#": 3,
+        "jersey_num": 3,
         "pos": "DF",
         "player_name": "THERMONCY Keeto",
         "first_names": "Keeto",
@@ -1654,7 +1654,7 @@
     {
         "country": "Haiti",
         "country_code": "HAI",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "MF",
         "player_name": "PIERRE Woodensky",
         "first_names": "Olivier Woodensky",
@@ -1699,7 +1699,7 @@
     {
         "country": "Iran",
         "country_code": "IRN",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "MF",
         "player_name": "RAZAGHINIA Amirmohammad",
         "first_names": "Amirmohammad",
@@ -1744,7 +1744,7 @@
     {
         "country": "Japan",
         "country_code": "JPN",
-        "#": 9,
+        "jersey_num": 9,
         "pos": "FW",
         "player_name": "GOTO Keisuke",
         "first_names": "Keisuke",
@@ -1785,7 +1785,7 @@
     {
         "country": "Japan",
         "country_code": "JPN",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "FW",
         "player_name": "SHIOGAI Kento",
         "first_names": "Kento",
@@ -1826,7 +1826,7 @@
     {
         "country": "Jordan",
         "country_code": "JOR",
-        "#": 11,
+        "jersey_num": 11,
         "pos": "FW",
         "player_name": "ODEH FAKHOURY",
         "first_names": "Odeh Burhan Shehadeh",
@@ -1871,7 +1871,7 @@
     {
         "country": "Jordan",
         "country_code": "JOR",
-        "#": 18,
+        "jersey_num": 18,
         "pos": "MF",
         "player_name": "MOHAMMAD ABUGHOUSH",
         "first_names": "Mohammad Ahmed Mohammad",
@@ -1916,7 +1916,7 @@
     {
         "country": "Mexico",
         "country_code": "MEX",
-        "#": 18,
+        "jersey_num": 18,
         "pos": "MF",
         "player_name": "VARGAS Obed",
         "first_names": "Obed Goméz",
@@ -1961,7 +1961,7 @@
     {
         "country": "Mexico",
         "country_code": "MEX",
-        "#": 19,
+        "jersey_num": 19,
         "pos": "MF",
         "player_name": "MORA Gilberto",
         "first_names": "Gilberto Rafael",
@@ -2006,7 +2006,7 @@
     {
         "country": "Morocco",
         "country_code": "MAR",
-        "#": 6,
+        "jersey_num": 6,
         "pos": "MF",
         "player_name": "BOUADDI Ayyoub",
         "first_names": "Ayyoub",
@@ -2039,7 +2039,7 @@
     {
         "country": "Morocco",
         "country_code": "MAR",
-        "#": 7,
+        "jersey_num": 7,
         "pos": "MF",
         "player_name": "TALBI Chemsdine",
         "first_names": "Chemsdine",
@@ -2072,7 +2072,7 @@
     {
         "country": "Morocco",
         "country_code": "MAR",
-        "#": 15,
+        "jersey_num": 15,
         "pos": "MF",
         "player_name": "EL MOURABET Samir",
         "first_names": "Samir",
@@ -2105,7 +2105,7 @@
     {
         "country": "Morocco",
         "country_code": "MAR",
-        "#": 16,
+        "jersey_num": 16,
         "pos": "MF",
         "player_name": "YASSINE Gessime",
         "first_names": "Gessime Ben Youssef Mustapha",
@@ -2138,7 +2138,7 @@
     {
         "country": "Morocco",
         "country_code": "MAR",
-        "#": 21,
+        "jersey_num": 21,
         "pos": "FW",
         "player_name": "AMAIMOUNI Ayoube",
         "first_names": "Ayoube",
@@ -2171,7 +2171,7 @@
     {
         "country": "Netherlands",
         "country_code": "NED",
-        "#": 25,
+        "jersey_num": 25,
         "pos": "DF",
         "player_name": "HATO Jorrel",
         "first_names": "Jorrel Evan",
@@ -2212,7 +2212,7 @@
     {
         "country": "New Zealand",
         "country_code": "NZL",
-        "#": 4,
+        "jersey_num": 4,
         "pos": "DF",
         "player_name": "BINDON Tyler",
         "first_names": "Tyler Grant",
@@ -2257,7 +2257,7 @@
     {
         "country": "Norway",
         "country_code": "NOR",
-        "#": 20,
+        "jersey_num": 20,
         "pos": "FW",
         "player_name": "NUSA Antonio",
         "first_names": "Antonio Eromonsele Nordby",
@@ -2302,7 +2302,7 @@
     {
         "country": "Paraguay",
         "country_code": "PAR",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "DF",
         "player_name": "MAIDANA Alexandro",
         "first_names": "Alexandro",
@@ -2347,7 +2347,7 @@
     {
         "country": "Portugal",
         "country_code": "POR",
-        "#": 15,
+        "jersey_num": 15,
         "pos": "MF",
         "player_name": "JOAO NEVES",
         "first_names": "João Pedro",
@@ -2392,7 +2392,7 @@
     {
         "country": "Qatar",
         "country_code": "QAT",
-        "#": 13,
+        "jersey_num": 13,
         "pos": "DF",
         "player_name": "AYOUB ALOUI",
         "first_names": "Ayoub Mohamed",
@@ -2429,7 +2429,7 @@
     {
         "country": "Qatar",
         "country_code": "QAT",
-        "#": 24,
+        "jersey_num": 24,
         "pos": "FW",
         "player_name": "TAHSIN MOHAMMED",
         "first_names": "Tahsin Mohammad",
@@ -2466,7 +2466,7 @@
     {
         "country": "Scotland",
         "country_code": "SCO",
-        "#": 8,
+        "jersey_num": 8,
         "pos": "MF",
         "player_name": "FLETCHER Tyler",
         "first_names": "Tyler Robert",
@@ -2495,7 +2495,7 @@
     {
         "country": "Scotland",
         "country_code": "SCO",
-        "#": 17,
+        "jersey_num": 17,
         "pos": "FW",
         "player_name": "GANNON-DOAK Ben",
         "first_names": "Ben Gannon",
@@ -2524,7 +2524,7 @@
     {
         "country": "Scotland",
         "country_code": "SCO",
-        "#": 25,
+        "jersey_num": 25,
         "pos": "FW",
         "player_name": "CURTIS Findlay",
         "first_names": "Findlay Kenneth",
@@ -2553,7 +2553,7 @@
     {
         "country": "Senegal",
         "country_code": "SEN",
-        "#": 2,
+        "jersey_num": 2,
         "pos": "DF",
         "player_name": "SARR Mamadou",
         "first_names": "Mamadou",
@@ -2594,7 +2594,7 @@
     {
         "country": "Senegal",
         "country_code": "SEN",
-        "#": 7,
+        "jersey_num": 7,
         "pos": "FW",
         "player_name": "DIAO Assane",
         "first_names": "Assane",
@@ -2635,7 +2635,7 @@
     {
         "country": "Senegal",
         "country_code": "SEN",
-        "#": 20,
+        "jersey_num": 20,
         "pos": "FW",
         "player_name": "MBAYE Ibrahim",
         "first_names": "Ibrahim",
@@ -2676,7 +2676,7 @@
     {
         "country": "Senegal",
         "country_code": "SEN",
-        "#": 22,
+        "jersey_num": 22,
         "pos": "MF",
         "player_name": "NDIAYE Bara Sapoko",
         "first_names": "Bara Sapoko",
@@ -2717,7 +2717,7 @@
     {
         "country": "Senegal",
         "country_code": "SEN",
-        "#": 25,
+        "jersey_num": 25,
         "pos": "DF",
         "player_name": "DIOUF El Hadji Malick",
         "first_names": "El Hadji Malick",
@@ -2758,7 +2758,7 @@
     {
         "country": "South Africa",
         "country_code": "RSA",
-        "#": 10,
+        "jersey_num": 10,
         "pos": "FW",
         "player_name": "MOFOKENG Relebohile",
         "first_names": "Relebohile",
@@ -2803,7 +2803,7 @@
     {
         "country": "South Africa",
         "country_code": "RSA",
-        "#": 14,
+        "jersey_num": 14,
         "pos": "DF",
         "player_name": "MBOKAZI Mbekezeli",
         "first_names": "Mbekezeli Mfanu",
@@ -2848,7 +2848,7 @@
     {
         "country": "Spain",
         "country_code": "ESP",
-        "#": 9,
+        "jersey_num": 9,
         "pos": "MF",
         "player_name": "GAVI",
         "first_names": "Pablo",
@@ -2893,7 +2893,7 @@
     {
         "country": "Spain",
         "country_code": "ESP",
-        "#": 19,
+        "jersey_num": 19,
         "pos": "FW",
         "player_name": "YAMAL Lamine",
         "first_names": "Lamine Yamal",
@@ -2938,7 +2938,7 @@
     {
         "country": "Spain",
         "country_code": "ESP",
-        "#": 22,
+        "jersey_num": 22,
         "pos": "DF",
         "player_name": "CUBARSI Pau",
         "first_names": "Pau",
@@ -2983,7 +2983,7 @@
     {
         "country": "Sweden",
         "country_code": "SWE",
-        "#": 7,
+        "jersey_num": 7,
         "pos": "MF",
         "player_name": "BERGVALL Lucas",
         "first_names": "Lucas Erik Holger",
@@ -3012,7 +3012,7 @@
     {
         "country": "Switzerland",
         "country_code": "SUI",
-        "#": 9,
+        "jersey_num": 9,
         "pos": "MF",
         "player_name": "MANZAMBI Johan",
         "first_names": "Johan Kula",
@@ -3049,7 +3049,7 @@
     {
         "country": "Tunisia",
         "country_code": "TUN",
-        "#": 5,
+        "jersey_num": 5,
         "pos": "DF",
         "player_name": "AROUS Adam",
         "first_names": "Adam",
@@ -3090,7 +3090,7 @@
     {
         "country": "Tunisia",
         "country_code": "TUN",
-        "#": 14,
+        "jersey_num": 14,
         "pos": "MF",
         "player_name": "AYARI Khalil",
         "first_names": "Khalil",
@@ -3131,7 +3131,7 @@
     {
         "country": "Tunisia",
         "country_code": "TUN",
-        "#": 18,
+        "jersey_num": 18,
         "pos": "FW",
         "player_name": "ELLOUMI Rayan",
         "first_names": "Rayan",
@@ -3172,7 +3172,7 @@
     {
         "country": "Tunisia",
         "country_code": "TUN",
-        "#": 23,
+        "jersey_num": 23,
         "pos": "DF",
         "player_name": "NEFFATI Moutaz",
         "first_names": "Moutaz",
@@ -3213,7 +3213,7 @@
     {
         "country": "Turkey",
         "country_code": "TUR",
-        "#": 8,
+        "jersey_num": 8,
         "pos": "FW",
         "player_name": "GULER Arda",
         "first_names": "Arda",
@@ -3254,7 +3254,7 @@
     {
         "country": "Turkey",
         "country_code": "TUR",
-        "#": 9,
+        "jersey_num": 9,
         "pos": "FW",
         "player_name": "GUL Deniz",
         "first_names": "Deniz Daniel",
@@ -3295,7 +3295,7 @@
     {
         "country": "Turkey",
         "country_code": "TUR",
-        "#": 11,
+        "jersey_num": 11,
         "pos": "FW",
         "player_name": "YILDIZ Kenan",
         "first_names": "Kenan",
@@ -3336,7 +3336,7 @@
     {
         "country": "Turkey",
         "country_code": "TUR",
-        "#": 26,
+        "jersey_num": 26,
         "pos": "FW",
         "player_name": "UZUN Can",
         "first_names": "Can Yılmaz",
@@ -3377,7 +3377,7 @@
     {
         "country": "United States",
         "country_code": "USA",
-        "#": 16,
+        "jersey_num": 16,
         "pos": "DF",
         "player_name": "FREEMAN Alex",
         "first_names": "Alexander Michael",
@@ -3422,7 +3422,7 @@
     {
         "country": "Uzbekistan",
         "country_code": "UZB",
-        "#": 24,
+        "jersey_num": 24,
         "pos": "DF",
         "player_name": "KARIMOV Behruzjon",
         "first_names": "Behruzjon",
@@ -3467,7 +3467,7 @@
     {
         "country": "Guatemala",
         "country_code": "GUA",
-        "#": 10,
+        "jersey_num": 10,
         "pos": "MF",
         "player_name": "DIAZ Devin",
         "first_names": "Devin",
