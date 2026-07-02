@@ -1,0 +1,19 @@
+.player-card {
+    width: 100%;
+    border-radius: 12px;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+.player-name{
+    min-height:60px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+}
+
+.player-club{
+    min-height:45px;
+    text-align:center;
+}
