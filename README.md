@@ -1,6 +1,6 @@
 # U-22-World-Cup-Players
 
-#### View site here:  
+#### View site here: [Live Site](https://u-22-world-cup-players.vercel.app/)
 
 A mini terminal like app displaying U-22 players at the FIFA World Cup 2026.
 
